@@ -16,7 +16,7 @@ This project focuses on enhancing the robustness of a BERT-based sentiment analy
 **#Installation**
 
 1) Clone the repository:
-git clone https://github.com/your-username/adversarial-sentiment-analysis.git
+git clone https://github.com/Devesh-Attri/-Sentiment-Analysis-with-BERT.git
 cd {YOUR_FOLDER_NAME}
 
 2) Create a virtual environment and activate it:
