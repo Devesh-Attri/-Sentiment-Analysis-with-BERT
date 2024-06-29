@@ -1,10 +1,10 @@
-#Adversarial Training and Defense Mechanisms for Sentiment Analysis
+**#Adversarial Training and Defense Mechanisms for Sentiment Analysis**
 
-#Project Overview
+**#Project Overview**
 
 This project focuses on enhancing the robustness of a BERT-based sentiment analysis model against adversarial attacks. It involves training the model on the IMDB dataset and implementing both adversarial attacks and defense mechanisms using the TextAttack library.
 
-#Technologies Used
+**#Technologies Used**
 
 • Language: Python
 • Machine Learning Frameworks: PyTorch, Hugging Face Transformers
@@ -13,7 +13,7 @@ This project focuses on enhancing the robustness of a BERT-based sentiment analy
 • Hardware: MacBook Air M1
 
 
-#Installation
+**#Installation**
 
 1) Clone the repository:
 git clone https://github.com/your-username/adversarial-sentiment-analysis.git
@@ -27,7 +27,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 
 
-#Usage
+**#Usage**
 
 1) Train the BERT model.
 2) Run the training script.
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 5) Implement defense mechanisms.
 6) Run the defense mechanism script.
 
-#Project Structure
+**#Project Structure**
 
 • train_model.py: Script to train the BERT model on the IMDB dataset.
 • adversarial_attack.py: Script to perform adversarial attacks using TextAttack.
@@ -44,9 +44,9 @@ pip install -r requirements.txt
 • requirements.txt: List of dependencies required to run the project.
 
 
-#Result
+**#Result**
 The project aims to improve the robustness of sentiment analysis models by evaluating their performance under adversarial conditions and applying effective defense strategies.
 
 
-#Contributing
+**#Contributing**
 Feel free to submit issues or pull requests if you find any bugs or have suggestions for improvements.
